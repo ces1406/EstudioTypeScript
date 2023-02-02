@@ -1,0 +1,7 @@
+{
+    "watch":["src"],
+    "ext":".ts",
+    "ignore":[],
+    "exec":"ts-node ./src/index.ts",
+    "execu": "npm run build:prod && node build/index.js"
+}
