@@ -1,1 +1,2 @@
-console.log('hola mundo')
+const cad = require( './variables');
+console.log('hola mundo '+ cad);
